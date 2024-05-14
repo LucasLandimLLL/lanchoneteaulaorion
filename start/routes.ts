@@ -17,4 +17,3 @@ router.get('/', async () => {
 })
 
 router.resource('/produtos', ProdutosController).apiOnly()
-
