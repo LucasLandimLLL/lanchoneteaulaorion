@@ -13,6 +13,7 @@ export default class extends BaseSeeder {
       {produtoId: 2, ingredienteId: 9},
       {produtoId: 2, ingredienteId: 10},
       {produtoId: 2, ingredienteId: 5},
+      {produtoId: 2, ingredienteId: 9},
     ])
 
   }
